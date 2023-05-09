@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently studying BTech in Computer Science and Engineering<br>At Government Engineering College Sreekrishnapuram, Palakkad 
+I'm currently studying BTech 
+<br> Computer Science and Engineering <br> At Government Engineering College Sreekrishnapuram,<br> Palakkad 
 
 
 ## 🌐 Socials:
