@@ -1,9 +1,11 @@
 # 💫 About Me:
+
+---
+
 I'm currently studying BTECH 
 <br>Computer Science and Engineering <br>Government Engineering College Sreekrishnapuram,<br>Palakkad ,Kerala, India - 678633
 
 ---
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerald_joyson_) 
 
