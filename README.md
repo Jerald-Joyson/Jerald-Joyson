@@ -4,6 +4,7 @@ I'm currently studying BTECH
 <br>Computer Science and Engineering <br>Government Engineering College Sreekrishnapuram,<br>Palakkad ,Kerala, India - 678633
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%238A2BE2.svg?logo=googlechrome&logoColor=white)](https://jerald-joyson.netlify.app/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jerald_joyson_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jerald.joyson.1.0) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerald-joyson) 
