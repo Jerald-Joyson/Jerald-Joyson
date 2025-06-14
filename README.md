@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-I'm currently studying BTECH 
-<br>Computer Science and Engineering <br>Government Engineering College Sreekrishnapuram,<br>Palakkad ,Kerala, India - 678633
+Computer Science and Engineering graduate skilled in AI and full-stack development. Experienced in building scalable web and mobile apps using Next.js, Flutter, and Firebase. Strong problem-solving skills with hackathon experience. Seeking opportunities to apply technical expertise to impactful projects.
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%238A2BE2.svg?logo=googlechrome&logoColor=white)](https://jerald-joyson.netlify.app/) 
